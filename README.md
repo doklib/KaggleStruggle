@@ -1,2 +1,2 @@
-# KaggleMedal
-* 캐글 수난기
+# KaggleStruggle
+* 캐글 기록
